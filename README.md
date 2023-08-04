@@ -1,2 +1,2 @@
 # Brillouin
-Brillouin Index
+Brillouin Index (Pielou, 1975)
